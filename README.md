@@ -1,7 +1,7 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Python Lernen
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Hier ist ein Grundlagenkurs für Python, der auf Jupyter Notebook basiert.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Im Ordner Notebooks findest du zwei Verzeichnisse Basic und Intermediate in denen eine ganze Anzahl von Python Lektionen als Notebooks zu finden sind. 
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Es gibt dazu auch ein Verzeichnis mit den entsprechenden Übungen, die es zu lösen gilt.
