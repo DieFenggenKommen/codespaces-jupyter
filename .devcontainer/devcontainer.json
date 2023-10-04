@@ -8,7 +8,8 @@
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
-      "openFiles": ["welcome.md"]
+      "postCreateCommand": "python3 -m pip install -r requirements.txt",
+      "openFiles": ["00_start_learning_python.ipynb"]
     },
     "vscode": {
       "extensions": [
