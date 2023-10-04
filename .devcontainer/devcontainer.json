@@ -8,7 +8,7 @@
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
-      "openFiles": []
+      "openFiles": ["00_start_learning_python.ipynb"]
     },
     "vscode": {
       "extensions": [
